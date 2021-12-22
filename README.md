@@ -21,6 +21,9 @@ This language <b>(jupyter notebook)</b> is nothing other than <b>Python Programm
     <img src="https://i9.ytimg.com/vi/gFjmkPBVJK0/maxresdefault.jpg?time=1640180100000&sqp=CITTjI4G&rs=AOn4CLC3eJDt_pZvS3oTen0ixuql5oy2DA" alt="How to make Android App Thumbnail"/>
   </p>
 </a>
+<b> 150+ videos so far </b><br>
+<a href="https://www.youtube.com/c/IGTechTeam/videos">View All Videos </a>
+<br><br>
 
 <h1>My Popular Post</h1>
 <a href="https://ishwargautam.blogspot.com/2021/07/face-recognition-system-using-deep.html" title="Face Recognition Using Deep Learning">
@@ -28,7 +31,9 @@ This language <b>(jupyter notebook)</b> is nothing other than <b>Python Programm
     <img src="https://i9.ytimg.com/vi/-I-kSz0rblU/maxresdefault.jpg?time=1640183400000&sqp=COjsjI4G&rs=AOn4CLAnVv6awNuMhSS1JlHaS2dw6eof3A" alt="Face Recognition Using Deep Learning Thumbnail"/>
   </p>
 </a>
-
+<b> 100+ Posts so far </b><br>
+<a href="https://ishwargautam.blogspot.com">View All Posts </a>
+<br><br>
 
 
 
