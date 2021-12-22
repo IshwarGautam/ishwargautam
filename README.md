@@ -16,7 +16,18 @@ This language <b>(jupyter notebook)</b> is nothing other than <b>Python Programm
 [Jupyter notebook takes extension 'ipynb' and python file takes extension 'py'; so it is making difference on these two]
 
 <h1>My Latest Video</h1>
-https://www.youtube.com/feeds/videos.xml?channel_id=UC4Wf9XNPsbXwQqfKlUZfmtw
+<a href="https://youtu.be/gFjmkPBVJK0" title="Make Android Application With Python Programming Language And Kivy Tool">
+  <p align="center">
+    <img width="75%" src="https://i9.ytimg.com/vi/gFjmkPBVJK0/maxresdefault.jpg?time=1640180100000&sqp=CITTjI4G&rs=AOn4CLC3eJDt_pZvS3oTen0ixuql5oy2DA" alt="How to make Android App Thumbnail"/>
+  </p>
+</a>
+
+<h1>My Popular Post</h1>
+<a href="https://ishwargautam.blogspot.com/2021/07/face-recognition-system-using-deep.html" title="Face Recognition Using Deep Learning">
+  <p align="center">
+    <img width="75%" src="https://1.bp.blogspot.com/-rqbYRYQfcDo/YVqvt82rs8I/AAAAAAAAB54/p6LNYmc7cK0DnClkflk7EpvUo5sqRxR5QCLcBGAsYHQ/s350/facce.png" alt="Face Recognition Using Deep Learning Thumbnail"/>
+  </p>
+</a>
 
 
 
