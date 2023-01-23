@@ -16,9 +16,10 @@ This language <b>(jupyter notebook)</b> is nothing other than <b>Python Programm
 [Jupyter notebook takes extension 'ipynb' and python file takes extension 'py'; so it is making difference on these two]
 -->
 <h1>My Latest Video</h1>
+<h2>Quiz Application using Kivy (Python Framework)</h2>
 <a href="https://youtu.be/gFjmkPBVJK0" title="Quiz Application using Kivy">
   <p align="center">
-    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhUNt8nbuqDfiwT83fLPvrSgeKBCjkbG6jq2rM2oTe0988lSKdOMuWNj9Maet6773ehpNu0oW6gB53FyAE8mFUAmw4r3yvM9Fl5D3yS4DTeXbUy7Ws4flU0nDt-FQAUzHxOWIzSazYAhtJTxhToec9NnX0c_qC7gBfw4V-LFw_U1HI3ZaapNN-1ZUZKVw=s350" alt="How to make Android Quiz App Thumbnail"/>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTTlWmhaITmyydmzIamAQkoE2aI2GJzk4BL110YMg3iC2kWAmJ8bnbygwlmvkPtYu5RBbqV446pHrwuhWooSsHae6UTac5LnfptxNNh_Xi4I3Rf6nAXHuprcoTWTnlU6c3eybhFBd3isdpnmsi4YVi_815gHvdpEiCPIC2gtswLQjbqPz2TybvjDVaHw/s320/mimage.jpg" alt="How to make Android Quiz App Thumbnail"/>
   </p>
 </a>
 <b> 150+ videos so far </b><br>
@@ -26,6 +27,7 @@ This language <b>(jupyter notebook)</b> is nothing other than <b>Python Programm
 <br><br>
 
 <h1>My Popular Post</h1>
+<h2>Face Recognition using Deep Learning</h2>
 <a href="https://ishwargautam.blogspot.com/2021/07/face-recognition-system-using-deep.html" title="Face Recognition Using Deep Learning">
   <p align="center">
     <img src="https://1.bp.blogspot.com/-rqbYRYQfcDo/YVqvt82rs8I/AAAAAAAAB54/p6LNYmc7cK0DnClkflk7EpvUo5sqRxR5QCLcBGAsYHQ/s350/facce.png" alt="Face Recognition Using Deep Learning Thumbnail"/>
