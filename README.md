@@ -2,7 +2,6 @@
 🔭 Currently working on LeapFrog Technology as a Software Engineer.<br>
 📖 Completed my Bachelor Level Course [CSIT (Computer Science and Information Technology)].<br>
 📼 Owner of YouTube Channel: <a href="https://www.youtube.com/c/igtechteam">IG Tech Team</a><br>
-📫 How to reach me: <a href="https://ishwargautam.blogspot.com/#ContactForm1">click here</a><br>
 
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ishwargautam&theme=highcontrast&show_icons=true&count_private=true)
