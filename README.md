@@ -15,13 +15,13 @@ This language <b>(jupyter notebook)</b> is nothing other than <b>Python Programm
 [Jupyter notebook takes extension 'ipynb' and python file takes extension 'py'; so it is making difference on these two]
 -->
 <h1>My Latest Video</h1>
-<h2>Quiz Application using Kivy (Python Framework)</h2>
-<a href="https://youtu.be/gFjmkPBVJK0" title="Quiz Application using Kivy">
+<h2>AWS Technical Essentials</h2>
+<a href="https://youtu.be/M9K42_ZlxHk" title="AWS Techinical Essentials">
   <p align="center">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTTlWmhaITmyydmzIamAQkoE2aI2GJzk4BL110YMg3iC2kWAmJ8bnbygwlmvkPtYu5RBbqV446pHrwuhWooSsHae6UTac5LnfptxNNh_Xi4I3Rf6nAXHuprcoTWTnlU6c3eybhFBd3isdpnmsi4YVi_815gHvdpEiCPIC2gtswLQjbqPz2TybvjDVaHw/s320/mimage.jpg" alt="How to make Android Quiz App Thumbnail"/>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdrEbPrlvCHoUYt66Gjcf5sLoJgZXbDZcUaG4b3Qu09jXCBozomlforPdHWmvRloO1N53V8EDUVfiVOQ8uJPzrtMhXXNid3BaUCVzx5j_rUYaEu0OUNQG_6a5rQvGIoCFfmJsxtaV5ATd3pG_xluKFnlQI4KCY6YFmHL6RPAVUtQTnnx2nnYBtrkbE/s1280/aws%20technical%20essentials.png" alt="AWS Technical Essentials"/>
   </p>
 </a>
-<b> 150+ videos so far </b><br>
+<b> 180+ videos so far </b><br>
 <a href="https://www.youtube.com/c/IGTechTeam/videos">View All Videos </a>
 <br><br>
 
@@ -32,8 +32,8 @@ This language <b>(jupyter notebook)</b> is nothing other than <b>Python Programm
     <img src="https://1.bp.blogspot.com/-rqbYRYQfcDo/YVqvt82rs8I/AAAAAAAAB54/p6LNYmc7cK0DnClkflk7EpvUo5sqRxR5QCLcBGAsYHQ/s350/facce.png" alt="Face Recognition Using Deep Learning Thumbnail"/>
   </p>
 </a>
-<b> 100+ Posts so far </b><br>
-<a href="https://ishwargautam.blogspot.com">View All Posts </a>
+<b> 30+ Posts so far </b><br>
+<a href="https://igtechteam.com/">View All Posts </a>
 <br><br>
 
 
