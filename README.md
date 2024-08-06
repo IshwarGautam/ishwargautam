@@ -27,13 +27,13 @@ This language <b>(jupyter notebook)</b> is nothing other than <b>Python Programm
 
 <h1>My Popular Post</h1>
 <h2>Face Recognition using Deep Learning</h2>
-<a href="https://ishwargautam.blogspot.com/2021/07/face-recognition-system-using-deep.html" title="Face Recognition Using Deep Learning">
+<a href="https://igtechteam.wordpress.com/2023/06/25/face-recognition-system-using-deep-learning-complete-project/" title="Face Recognition Using Deep Learning">
   <p align="center">
     <img src="https://1.bp.blogspot.com/-rqbYRYQfcDo/YVqvt82rs8I/AAAAAAAAB54/p6LNYmc7cK0DnClkflk7EpvUo5sqRxR5QCLcBGAsYHQ/s350/facce.png" alt="Face Recognition Using Deep Learning Thumbnail"/>
   </p>
 </a>
 <b> 30+ Posts so far </b><br>
-<a href="https://igtechteam.com/">View All Posts </a>
+<a href="https://igtechteam.wordpress.com/">View All Posts </a>
 <br><br>
 
 
